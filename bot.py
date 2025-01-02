@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-TELEGRAM_BOT_TOKEN = "7253316908:AAFfVekK7tapPkCOLoW4B-K4U-ieZAuNdXI"
+TELEGRAM_BOT_TOKEN = "USE YOUR TOKEN KEY HERE"
 
 # Starting first step.....
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
